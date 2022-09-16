@@ -1,0 +1,5 @@
+mkdir //Cria um diretório.
+ls //Lista os arquivos.
+ls -l //Lista os arquivos com detalhes.
+cd //Entra em uma pasta.
+pwd //Mostra o caminho da pasta em que está presente.
